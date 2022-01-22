@@ -1,5 +1,6 @@
 {
   "name": "reactcalculator",
+  "homepage": "https://luizfelmach.github.io/reactcalculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
